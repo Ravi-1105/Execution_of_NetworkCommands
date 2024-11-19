@@ -28,5 +28,45 @@ This commands includes
 
 ## Output
 
+## NETSTAT
+
+![netstat](https://github.com/user-attachments/assets/132b19a8-cba3-4592-ac21-ba6cc106f1ea)
+
+## IPCONFIG
+
+![ipconfig](https://github.com/user-attachments/assets/9e31eeab-433f-42e1-9fe0-6d7fd7a4c8fb)
+
+## PING
+
+![ping](https://github.com/user-attachments/assets/ba209c73-c070-44bf-ade7-56f8250579a9)
+
+## TRACERT
+
+![tracert](https://github.com/user-attachments/assets/36718846-1372-4a35-a7fb-43b5ee85a182)
+
+## NSLOOKUP
+
+![nslookup](https://github.com/user-attachments/assets/b1bc250f-987c-4780-959a-ca70e34a52fb)
+
+## GETMAC
+
+![getmac](https://github.com/user-attachments/assets/1745a66e-07f4-407b-910a-c6437e46e6ea)
+
+## HOSTNAME
+
+![hostname](https://github.com/user-attachments/assets/5ce19d79-7303-4408-9f21-9260ae9b4399)
+
+## NBTSTAT
+
+ ![nbtstat](https://github.com/user-attachments/assets/7fae9f2b-5a1f-4777-8e02-3ded91f032fc)
+
+## ARP
+
+ ![arp](https://github.com/user-attachments/assets/cc06f22d-17f0-4288-ab5f-42cfc3dc2697)
+
+## SYSTEM INFO
+
+![systeminfo](https://github.com/user-attachments/assets/1dfa1c48-e096-48bf-839a-6dbd181d0f75)
+
 ## Result
 Thus Execution of Network commands Performed 
