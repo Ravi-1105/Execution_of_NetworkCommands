@@ -66,7 +66,7 @@ This commands includes
 
 ## SYSTEM INFO
 
-![systeminfo](https://github.com/user-attachments/assets/1dfa1c48-e096-48bf-839a-6dbd181d0f75)
+![image](https://github.com/user-attachments/assets/477d8aaf-c5bc-4d70-9eb1-84fd5ba745ed)
 
 ## Result
 Thus Execution of Network commands Performed 
